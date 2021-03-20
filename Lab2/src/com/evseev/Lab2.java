@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab2 {
 
 
-    public static void main(String[] args) {
+    public static void main() {
         System.out.println("Enter the coordinates of the three points separated by a space.");
         Scanner in = new Scanner(System.in);
         System.out.print("First point: ");
