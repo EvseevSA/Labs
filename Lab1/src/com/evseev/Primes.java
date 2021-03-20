@@ -4,7 +4,7 @@ public class Primes
 {
 
 
-    public static void getPrimes(String[] args) {
+    public static void getPrimes() {
         for (int i = 2; i < 100; i++)
             if (isPrime(i)) System.out.print(i + "; ");
     }
